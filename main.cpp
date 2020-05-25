@@ -1,3 +1,4 @@
+// учебная программа
 #include "sdt.h"
 
 int main() {
